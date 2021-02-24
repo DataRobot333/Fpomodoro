@@ -1,0 +1,11 @@
+type_activity,description, round, focus_time, short_break, long_break, date, time
+study,reading python cc book,3,25,5,30,2021/2/18,20:50:46
+coding,add count down to pomodoro project,3,25,5,30,2021/2/20,4:23:17
+study,py cc book: chapter 5,3,25,5,30,2021/2/20,6:26:8
+coding,guess word game,3,25,5,30,2021/2/20,9:17:56
+study,py cc book: C5 dict,2,25,5,60,2021/2/20,19:15:24
+coding,complete birthday reminder with send email function,3,25,5,30,2021/2/21,17:38:21
+coding,birthday reminder project,3,25,5,30,2021/2/22,17:56:22
+coding,solve coding challenge in finxter,3,25,5,30,2021/2/23,17:25:46
+study,study C6 dict in py cc book,3,25,5,30,2021/2/23,22:21:25
+coding,github pycc apendix,2,25,5,60,2021/2/24,12:0:14
